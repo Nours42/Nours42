@@ -25,6 +25,7 @@
 ### Je suis aussi
 J'ai été comptable et gestionnaire de payes pendant une quinzaine d'année dans différentes entreprises.
 J'ai passé 8 ans en poste, quelques années en entrepreneur dans l'informatique au milieu.
+
 J'écris et traduis des livres de jeu de rôle de l'anglais vers le français sous le nom de plume de Gobelin Nounours. Vous pouvez en consulter quelques uns ici :
 
 Liens vers mon [itch.io](https://gobelin-nounours.itch.io/)
