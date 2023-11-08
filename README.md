@@ -1,10 +1,9 @@
 # DESTANNES Sébastien
-<h2 align="center">Développeur Web front et back mais pas que...</h2>
-<h3 align="center">Etudiant à 42 Perpignan</h3>
+## Développeur Web front et back mais pas que...
+### Etudiant à 42 Perpignan
 
-<h3 align="left">Mon Linkedin:
-	<a href="https://www.linkedin.com/in/sébastien-destannes-9606b9212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin_username" height="20" width="30" /></a>
-</h3>
+### Mon Linkedin:
+<a href="https://www.linkedin.com/in/sébastien-destannes-9606b9212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin_username" height="20" width="30" /></a>
 <h3 align=center> Mes compétences en languages informatiaues</h3>
 <table>
   <tr>
