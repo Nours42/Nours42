@@ -1,6 +1,6 @@
 # DESTANNES Sébastien
 ## Développeur Web front et back mais pas que...
-### Etudiant à 42 Perpignan
+### actuellemt étudiant à 42 Perpignan
 <a href="https://www.linkedin.com/in/sébastien-destannes-9606b9212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin_username" height="20" width="30" /></a>
 
 
@@ -16,7 +16,7 @@
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-### en dev logiciel
+### en Dev logiciel
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
@@ -34,4 +34,4 @@ Liens vers mon [itch.io](https://gobelin-nounours.itch.io/)
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nours42&theme=dark&locale=fr" alt="GitHub Streak" /></a></p>
 
 ### Le saviez-vous ?
-Vous pouvez manger autant de crevettes que vous voulez, vous ne serez jamais rose comme un flamand rose
+Vous pouvez manger autant de crevettes que vous voulez, vous ne serez jamais rose comme un flamand rose.
