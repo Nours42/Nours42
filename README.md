@@ -25,6 +25,7 @@
 J'ai été comptable et gestionnaire de payes pendant une quinzaine d'année dans différentes entreprises.
 J'ai passé 8 ans en poste, quelques années en entrepreneur dans l'informatique au milieu.
 J'écris et traduis des livres de jeu de rôle de l'anglais vers le français sous le nom de plume de Gobelin Nounours. Vous pouvez en consulter quelques uns ici :
+
 Liens vers mon [itch.io](https://gobelin-nounours.itch.io/)
 ### Mes stats github
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nours42&theme=dark&locale=fr" alt="GitHub Streak" /></a></p>
