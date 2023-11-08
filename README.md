@@ -48,5 +48,5 @@
 <h3 align="center">mes stats github</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Nours42&label=Profile%20views&color=0e75b6&style=flat" alt="Nours42" /></p>
 
-<h3 align="center">Le saviez-vous ?</h3>
-<p>Vous pouvez manger autant de crevettes que vous voulez, vous ne serez jamais rose comme un flamand rose</p>
+[^1]Le saviez-vous ?
+[^2]Vous pouvez manger autant de crevettes que vous voulez, vous ne serez jamais rose comme un flamand rose
