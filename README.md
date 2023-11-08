@@ -1,4 +1,4 @@
-<h1 align="center">DESTANNES Sébastien</h1>
+# DESTANNES Sébastien
 <h2 align="center">Développeur Web front et back mais pas que...</h2>
 <h3 align="center">Etudiant à 42 Perpignan</h3>
 
