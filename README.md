@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/sébastien-destannes-9606b9212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin_username" height="20" width="30" /></a>
 
 
-### Mes compétences en languages informatiques
+## Mes compétences en languages informatiques
 ### en Front
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -22,10 +22,11 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-### Je suis aussi
+## Je suis aussi
+### Mes anciens jobs
 J'ai été comptable et gestionnaire de payes pendant une quinzaine d'année dans différentes entreprises.
 J'ai passé 8 ans en poste, quelques années en entrepreneur dans l'informatique au milieu.
-
+### Mes passions
 J'écris et traduis des livres de jeu de rôle de l'anglais vers le français sous le nom de plume de Gobelin Nounours. Vous pouvez en consulter quelques uns ici :
 
 Liens vers mon [itch.io](https://gobelin-nounours.itch.io/)
