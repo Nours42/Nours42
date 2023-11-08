@@ -4,7 +4,7 @@
 
 ### Mon Linkedin:
 <a href="https://www.linkedin.com/in/sébastien-destannes-9606b9212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin_username" height="20" width="30" /></a>
-<h3 align=center> Mes compétences en languages informatiaues</h3>
+### Mes compétences en languages informatiques
 <table>
   <tr>
 	<td valign="center">
@@ -39,11 +39,11 @@
 		</td>
 	</tr>
 </table>
-<h3 align="center">Je suis aussi</h3>
-<p align="left">J'ai été comptable et gestionnaire de payes pendant une quinzaine d'année dans différentes entreprises.</p>
-<p>J'ai passé 8 ans en poste, quelques années en entrepreneur dans l'informatique au milieu.</p>
-<p>J'écris et traduis des livres de jeu de rôle de l'anglais vers le français sous le nom de plume de Gobelin Nounours. Vous pouvez en consulter quelques uns ici :</p>
-<p align="center"><a href="https://gobelin-nounours.itch.io/">Lien vers mon itch.io</a></p>
+### Je suis aussi
+J'ai été comptable et gestionnaire de payes pendant une quinzaine d'année dans différentes entreprises.
+J'ai passé 8 ans en poste, quelques années en entrepreneur dans l'informatique au milieu.
+J'écris et traduis des livres de jeu de rôle de l'anglais vers le français sous le nom de plume de Gobelin Nounours. Vous pouvez en consulter quelques uns ici :
+[lien vers mon itch](https://gobelin-nounours.itch.io/)
 ### Mes stats github
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nours42&theme=dark&locale=fr" alt="GitHub Streak" /></a></p>
 
