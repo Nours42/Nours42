@@ -34,4 +34,4 @@ Liens vers mon [itch.io](https://gobelin-nounours.itch.io/)
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nours42&theme=dark&locale=fr" alt="GitHub Streak" /></a></p>
 
 ### Le saviez-vous ?
-Vous pouvez manger autant de crevettes que vous voulez, vous ne serez jamais rose comme un flamand rose.
+Vous pouvez manger autant de crevettes que vous voulez, vous ne serez jamais rose comme un flamant rose.
