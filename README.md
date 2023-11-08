@@ -46,7 +46,7 @@
 <p>J'écris et traduis des livres de jeu de rôle de l'anglais vers le français sous le nom de plume de Gobelin Nounours. Vous pouvez en consulter quelques uns ici :</p>
 <p align="center"><a href="https://gobelin-nounours.itch.io/">Lien vers mon itch.io</a></p>
 <h3 align="center">mes stats github</h3>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nours42&theme=dark&locale=fr)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nours42&theme=dark&locale=fr" alt="GitHub Streak" /></a>
 
 [^1]Le saviez-vous ?
 [^2]Vous pouvez manger autant de crevettes que vous voulez, vous ne serez jamais rose comme un flamand rose
