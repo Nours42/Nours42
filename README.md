@@ -1,6 +1,9 @@
 # DESTANNES Sébastien
 ## Développeur mais pas que...
-<p>Je travaille actuellement en equipe sur : <a herf="https://github.com/jsoulet42/ft_irc/tree/main">ft_irc</a></p>
+<p dir="auto>
+  🔭 I’m currently working on :
+  <a href="https://github.com/jsoulet42/ft_irc">ft_irc<\a>
+</p>
 ### actuellement étudiant à 42 Perpignan
 <a href="https://www.linkedin.com/in/sébastien-destannes-9606b9212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin_username" height="20" width="30" /></a>
 
