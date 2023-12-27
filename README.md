@@ -1,6 +1,6 @@
 # DESTANNES Sébastien
 ## Développeur mais pas que...
-<p dir="auto>
+<p dir="auto">
   🔭 I’m currently working on :
   <a href="https://github.com/jsoulet42/ft_irc">ft_irc<\a>
 </p>
