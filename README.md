@@ -2,8 +2,8 @@
 ## Développeur mais pas que...
 ### actuellement étudiant à 42 Perpignan
 <p dir="auto">
-🔭 I'm currently doing an internship at the Meudon branch of the Paris Observatory, working on the exoplanet catalogue for the exoplanet.eu website.
-I'm looking for a position as a developer on a work-study contract to complete my Bac +5 (level 7 RNCP).
+🔭 Je suis actuellement en stage à l'antenne de Meudon de l'Observatoire de Paris, où je travaille sur le catalogue des exoplanètes pour le site exoplanet.eu.
+Je recherche un poste de développeur en contrat d'alternance pour compléter mon Bac +5 (niveau 7 RNCP).
 </p>
 
 <a href="https://www.linkedin.com/in/sébastien-destannes-9606b9212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin_username" height="20" width="30" /></a>
