@@ -23,6 +23,7 @@ Je recherche un poste de développeur en contrat professionnel pour compléter m
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgres" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="django" width="40" height="40"/></a>
 
 ### en Dev logiciel
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
