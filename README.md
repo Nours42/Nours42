@@ -1,6 +1,6 @@
 # DESTANNES Sébastien
 ## Développeur mais pas que...
-### actuellement étudiant à 42 Perpignan
+### Actuellement étudiant à 42 Perpignan
 <p dir="auto">
 🔭 Je suis actuellement en stage à l'antenne de Meudon de l'Observatoire de Paris, où je travaille sur le catalogue des exoplanètes pour le site exoplanet.eu.
 Je recherche un poste de développeur en contrat professionnel pour compléter mon Bac +5 (niveau 7 RNCP).
