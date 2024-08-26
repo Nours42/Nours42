@@ -35,7 +35,7 @@ Je recherche un poste de développeur en contrat professionnel pour compléter m
 ### Mes anciens jobs
 J'ai été comptable et gestionnaire de payes pendant une quinzaine d'année dans différentes entreprises et quelques années en entrepreneur dans l'informatique au milieu (réparation à domicile et formation).
 ### Mes passions
-J'écris et traduis des livres de jeu de rôle de l'anglais vers le français sous le nom de plume de Gobelin Nounours. Vous pouvez en consulter quelques uns ici :
+J'écris et traduis des livres de jeu de rôle de l'anglais vers le français sous le nom de plume de Gobelin Nounours avec mon épouse. Vous pouvez en consulter quelques uns de nos jeux ici :
 
 Liens vers mon [itch.io](https://gobelin-nounours.itch.io/)
 ### Mes stats github
