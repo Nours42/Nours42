@@ -33,7 +33,7 @@ Je recherche un poste de développeur en contrat professionnel pour compléter m
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 ## Je suis aussi
 ### Mes anciens jobs
-J'ai été comptable et gestionnaire de payes pendant une quinzaine d'année dans différentes entreprises et quelques années en entrepreneur dans l'informatique au milieu.
+J'ai été comptable et gestionnaire de payes pendant une quinzaine d'année dans différentes entreprises et quelques années en entrepreneur dans l'informatique au milieu (réparation à domicile et formation).
 ### Mes passions
 J'écris et traduis des livres de jeu de rôle de l'anglais vers le français sous le nom de plume de Gobelin Nounours. Vous pouvez en consulter quelques uns ici :
 
